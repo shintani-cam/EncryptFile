@@ -224,7 +224,7 @@ labelVesion = Label(text="Version: 1", font=("Arial",8))
 labelVesion.place(x=0, y=280)
 
 #author
-labelAuthor = Label(text="Author: thachngocdau@gmail.com", font=("Arial",8))
+labelAuthor = Label(text="Author: thachngocdau", font=("Arial",8))
 labelAuthor.place(x=350, y=280)
 
 #check key
