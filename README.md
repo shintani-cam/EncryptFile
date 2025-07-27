@@ -1,2 +1,2 @@
 # EncryptFile
-Using python gui tkinter to encrypton file
+Using python gui tkinter to encrypiton file
